@@ -1,4 +1,4 @@
-Binding site search 
+# Binding site search 
 
 This program defines and applies functions to search the sequence elements for the presence (and number of occurrences) of the Sox consensus site and a Pax3 binding site. 
 
